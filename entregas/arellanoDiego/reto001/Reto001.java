@@ -1,4 +1,4 @@
-package entregas.arellanoDiego;
+package entregas.arellanoDiego.reto001;
 
 import java.util.Scanner;
 
